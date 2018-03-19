@@ -7,3 +7,12 @@ C:\Users\user\Documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\
 C:\Users\user\Documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\user\Documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Projects\videotranslator\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Projects\videotranslator\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Projects\videotranslator\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Projects\videotranslator\ConsoleApp1\bin\Debug\NLog.dll
+C:\Projects\videotranslator\ConsoleApp1\bin\Debug\NLog.xml
+C:\Projects\videotranslator\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Projects\videotranslator\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Projects\videotranslator\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Projects\videotranslator\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

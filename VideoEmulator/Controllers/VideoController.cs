@@ -10,10 +10,10 @@ namespace VideoEmulator.Controllers
     public class VideoController : Controller
     {
         // GET controller/5
-        [HttpGet("{src}")]
-        public IActionResult Get(string src)
+        [HttpGet("{brigade}/{code}")]
+        public IActionResult Get(int brigade, int code)
         {
-            return File(Video.GetVideo(src), "image/jpeg");
+            return File(Video.GetVideo(brigade, code), "image/jpeg");
         }
     }
 }

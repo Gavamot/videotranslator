@@ -12535,7 +12535,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\OEO\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12544,17 +12544,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\VideoEmulator\\VideoEmulator.csproj",
+      "projectUniqueName": "C:\\Projects\\videotranslator\\VideoEmulator\\VideoEmulator.csproj",
       "projectName": "VideoEmulator",
-      "projectPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\VideoEmulator\\VideoEmulator.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\VideoEmulator\\obj\\",
+      "projectPath": "C:\\Projects\\videotranslator\\VideoEmulator\\VideoEmulator.csproj",
+      "packagesPath": "C:\\Users\\OEO\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\videotranslator\\VideoEmulator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12578,14 +12578,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "[2.0.5, )"
-          },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0.0",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "2.0.5"
           }
         },
         "imports": [
